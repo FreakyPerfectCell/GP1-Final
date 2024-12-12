@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 595e5fee48f933a43866c077f37bbdef
+  - enabled: 1
+    path: Assets/Scenes/Pre Story.unity
+    guid: 588ee1c7d66f02e40b9e864bee78a94c
+  - enabled: 1
+    path: Assets/Scenes/Pre Story2.unity
+    guid: 6cffe4d008962814880a1fb362f091b3
+  - enabled: 1
+    path: Assets/Scenes/World.unity
+    guid: 818319108aae1b54da595493fac0ab0d
+  - enabled: 1
+    path: Assets/Scenes/Cells Shop.unity
+    guid: 024f6d039b78e9141869da443ac2fdd0
+  - enabled: 1
+    path: Assets/Scenes/Studio.unity
+    guid: cf3a8df53b84074479cfa465faff2c25
+  - enabled: 1
+    path: Assets/Scenes/inStudio.unity
+    guid: f3b581a0a6ac3ce4ea000680ccb2c86d
+  - enabled: 1
+    path: Assets/Scenes/ToTheDungeon.unity
+    guid: edd78fdd4e00f4d499fa818a402c16bf
+  - enabled: 1
+    path: Assets/Scenes/InTheDungeon.unity
+    guid: e278799199cdc0d4181357fad15036ce
+  - enabled: 1
+    path: Assets/Scenes/Ginyu.unity
+    guid: b1d51e2ec29eb5a44a6beaf632a42ab1
+  - enabled: 1
+    path: Assets/Scenes/Escape.unity
+    guid: 1111195953c355a45b5870a5374c0c68
+  - enabled: 1
+    path: Assets/Scenes/TheForce.unity
+    guid: 3cd7b49cc9da3dd4395b55f3ccd87f87
+  - enabled: 1
+    path: Assets/Scenes/Outside.unity
+    guid: 74add99cc41d5484bbf927ebf60071ad
+  - enabled: 1
+    path: Assets/Scenes/ByeForce.unity
+    guid: 870277eec798b0446ae59a754ac79b62
+  - enabled: 1
+    path: Assets/Scenes/Trunks.unity
+    guid: 6dda41215e6a05b48912e058dbbe317d
+  - enabled: 1
+    path: Assets/Scenes/LowTaper.unity
+    guid: 7e45f9a2769a2554480425572241bce6
+  - enabled: 1
+    path: Assets/Scenes/Showdown.unity
+    guid: 33d3c4065e2593e469b3e3edec7b6f37
+  - enabled: 1
+    path: Assets/Scenes/Showdown1.unity
+    guid: 4d9de4e94440d7c46989d1de1d8d981c
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: 229b2b36ea3c74d48999fe309044d087
+  m_configObjects: {}
